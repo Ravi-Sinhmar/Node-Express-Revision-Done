@@ -1,0 +1,16 @@
+
+.box{
+    padding: 1rem;
+    background:gray;
+    border-radius: 5px;
+    border:  2px solid black;
+}
+
+
+.hey{
+    color: rgb(236, 174, 2);
+}
+
+.mid , .proud{
+color: white;
+}

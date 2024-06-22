@@ -1,0 +1,8 @@
+#node moduels
+node_modules
+
+#package-lock.json
+package-lock.json
+
+#imp information 
+config.env
